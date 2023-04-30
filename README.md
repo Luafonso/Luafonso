@@ -8,4 +8,14 @@
 
 - :violin: Estudo violino e leio nas horas vagas :books:
 
+   
+  
+  ![Luafonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luafonso&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luafonso&layout=compact)](https://github.com/Luafonso/github-readme-stats)
+  
+  
+  
+  
+  
+  
+  
   
