@@ -2,20 +2,16 @@
 
 ## Algumas coisas sobre mim :eyes:
 
-- :desktop_computer: :man_student: Graduando em Análise e Desenvolvimento de Sistemas na [FATEC Mogi-Mirim](https://fatecmm.edu.br/).
+🖥️: Graduando em Análise e Desenvolvimento de Sistemas na [FATEC Mogi-Mirim](https://fatecmm.edu.br/).🖥️
   
-- Sou um entusiasta de Programação, dados, Matemática e Linux, adoro Java e Python como linguagens de programação. Busco sempre estudar e me aprimorar para melhorar no dia a dia como programador e pessoa.
+🎲 Sou um entusiasta de Dados, Matemática e Linux, Python e Data Science. Busco sempre estudar e me aprimorar para melhorar no dia a dia como programador e pessoa. 🎲
 
-- Procurando novos passatempos e leio nas horas vagas :books:
+📚 Procurando novos passatempos e leio nas horas vagas 📚
 
-## Estudando :man_technologist:
-- Python
-- SQL
-- HTML/CSS/JavaScript
-
-## Tecnologias 👨‍💻
-- Java
-- Spring Boot
-- Docker
-- Linux
-- C
+## Tecnologias 
+🐍 Python
+🎲 SQL
+🐼 Pandas
+🖥️ HTML/CSS/JavaScript
+🐳 Docker
+🐧 Linux
