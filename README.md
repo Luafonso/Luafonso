@@ -16,4 +16,4 @@
 * 🐳 Docker
 * 🐧 Linux
 
-[![Luis Afonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luafonso)]
+[![Luis Afonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luafonso)](https://github.com/Luafonso/github-readme-stats)
