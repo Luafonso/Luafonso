@@ -12,13 +12,6 @@ Me chamo Luis Afonso, tenho 21 anos e sou estudante de Análise e Desenvolviment
             src="https://custom-icon-badges.demolab.com/github/stars/Luafonso?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Luafonso?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Luafonso?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
